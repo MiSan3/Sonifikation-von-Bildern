@@ -9,7 +9,7 @@ Wenn ein Bild keine guten Ergebnisse liefert, kann es hilfreich sein die Helligk
 **Samples**
 In diesem Ordner befinden sich Klaviersamples für alle Töne der C-Dur Tonleiter von C2 bis C6 in Form von WAVE-Dateien.
 
-**Wav Daeteien**
+**Wav Dateien**
 In diesem Ordner befinden sich beispielhafte WAVE-Dateien zur Erstellung einer Figur.
 
 ### Phyton-Skripte
